@@ -25,6 +25,9 @@ public class OrderManager {
     public void nameb1(){
         System.out.println("here is the change in b1");
     }
-
+// here is b2 change
+    public void nameb2(){
+        System.out.println("here is the change in b2");
+    }
 
 }
