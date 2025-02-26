@@ -18,16 +18,17 @@ public class OrderManager {
             }
         });
     }
+    // here is feature brach
     public void shutdown() {
         executor.shutdown();
     }
-    //here is the changes
-    public void nameb1(){
-        System.out.println("here is the change in b1");
+public void name(){
+    System.out.println("here is branch 1");
+}
+    public void name2(){
+        System.out.println("here is branch 2");
     }
-// here is b2 change
     public void nameb2(){
-        System.out.println("here is the change in b2");
+        System.out.println("here is branch 2");
     }
-
 }
