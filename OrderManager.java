@@ -28,4 +28,7 @@ public void name(){
     public void name2(){
         System.out.println("here is branch 2");
     }
+    public void nameb2(){
+        System.out.println("here is branch 2");
+    }
 }
