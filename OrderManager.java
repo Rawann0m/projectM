@@ -25,10 +25,9 @@ public class OrderManager {
 public void name(){
     System.out.println("here is branch 1");
 }
-    public void name2(){
-        System.out.println("here is branch 2");
-    }
+//here is b2
     public void nameb2(){
-        System.out.println("here is branch 2");
+        System.out.println("here is the change of branch 2");
     }
+
 }
